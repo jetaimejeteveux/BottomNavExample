@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationExample</string>
+    <string name="data">Home</string>
+    <string name="chat">Chat</string>
+    <string name="timeline">Timeline</string>
+    <string name="Account">Account</string>
+    <string name="More">More</string>
+
+</resources>
